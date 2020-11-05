@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include headers.h
 
+/*
+ * Я сдаю лаб.раб., .
+ */
 int main()
 {
     int i;
